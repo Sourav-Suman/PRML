@@ -1,0 +1,61 @@
+Gautama Buddha used to go out with a begging bowl to collect a morsel of food for the day. As soon as he appeared in front of a house, the lady of the house would come out with some cooked food, and offer it Buddha. Buddha would accept it, thank the lady and go away.
+
+One day, Buddha was passing through a village he had never been to before. He knocked on the door of one of the houses. The lady of this house was a bitter person. She was furious to see a monk with a begging bowl standing at her doorstep.
+
+She started abusing him. "Shirker! You want to eat food without working for it," she shouted. Buddha stood without ǡ reply.
+
+"You look fit enough to work. Why don’t you work, you fool?" she screamed.
+
+The lady went on abusing Buddha, calling him names. Buddha stood listening without reacting, waiting for her to finish.
+
+At last she paused to catch her breath. Then she said, "Why are you standing like a stone? Why don’t you say something, monk?" she taunted.
+
+"Mother, an offering has been made. But if it is not accepted, to whom does it belong?" Buddha asked.
+
+"I offer you nothing, you lazy monk," said the woman impatiently.
+
+"Mother, ever since I came to your door, you have been offering me whatever you have," said Buddha gently.
+
+The lady was intelligent. She at once knew the monk was referring to the abuses she was heaping on him.
+
+"And your question is, if the offering is not accepted …."
+
+" … to whom does it belong?" Buddha completed the sentence for her.
+
+The woman got the message. She fell at Buddha’s feet. She went inside and brought some food for him. Buddha thanked her and moved on.
+
+
+{0:["Buddha"],
+1:["Buddha", "lady"],
+2:["Buddha", "lady"],
+3:["Buddha"],
+4:["Buddha"],
+5:["lady1"],
+6:["Buddha", "lady1"],
+7:["Buddha", "lady1"],
+8:["Buddha", "lady1"],
+9:["Buddha", "lady1"],
+10:["Buddha"],
+11:["Buddha"],
+12:["Buddha"],
+13:["lady1"],
+14:["Buddha", "lady1"],
+15:["Buddha", "lady1"],
+16:["lady1"],
+17:["Buddha", "lady1"],
+18:["Buddha"],
+19:["lady1"],
+20:["lady1"],
+21:[],
+22:["Buddha"],
+23:["Buddha", "lady1"],
+24:["Buddha", "lady1"],
+25:["lady1"],
+26:["Buddha", "lady1"],
+27:["Buddha"],
+28:[],
+29:["Buddha", "lady1"],
+30:["lady1"],
+31:["Buddha", "lady1"],
+32:["Buddha", "lady1"],
+33:["Buddha", "lady1"]}
